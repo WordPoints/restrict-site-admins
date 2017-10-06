@@ -26,8 +26,10 @@ matrix:
     # Use Ubuntu Precise because Trusty doesn't support PHP 5.2 or 5.3.
     - php: 5.3
       dist: precise
+      env: TRAVISCI_RUN=codesniff RUN_PHPCS=0
     - php: 5.2
       dist: precise
+      env: TRAVISCI_RUN=codesniff RUN_PHPCS=0
     # Run against nightly.
     - php: nightly
   allow_failures:
