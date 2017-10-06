@@ -4,4 +4,4 @@ Restricts site admins from being able to edit the points reactions, only allowin
 
 ---
 
-You can find more info on [the module's homepage on WordPoints.org](https://wordpoints.org/modules/restrict-site-admins/).
+You can find more info on [the extension's homepage on WordPoints.org](https://wordpoints.org/extensions/restrict-site-admins/).

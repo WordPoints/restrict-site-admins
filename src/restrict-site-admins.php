@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Main file of the module.
+ * Main file of the extension.
  *
  * ---------------------------------------------------------------------------------|
  * Copyright 2017  J.D. Grimes  (email : jdg@codesymphony.co)
@@ -26,20 +26,20 @@
  * @license GPLv2+
  */
 
-WordPoints_Modules::register(
+wordpoints_register_extension(
 	'
-		Module Name: Restrict Site Admins
-		Author:      J.D. Grimes
-		Author URI:  https://codesymphony.co/
-		Module URI:  https://wordpoints.org/modules/restrict-site-admins/
-		Version:     1.0.0
-		License:     GPLv2+
-		Description: Restricts site admins from being able to modify points reactions.
-		Text Domain: wordpoints-restrict-site-admins
-		Domain Path: /languages
-		Channel:     wordpoints.org
-		ID:          1048
-		Namespace:   Restrict_Site_Admins
+		Extension Name: Restrict Site Admins
+		Author:         J.D. Grimes
+		Author URI:     https://codesymphony.co/
+		Extension URI:  https://wordpoints.org/extensions/restrict-site-admins/
+		Version:        1.0.0
+		License:        GPLv2+
+		Description:    Restricts site admins from being able to modify points reactions.
+		Text Domain:    wordpoints-restrict-site-admins
+		Domain Path:    /languages
+		Channel:        wordpoints.org
+		ID:             1048
+		Namespace:      Restrict_Site_Admins
 	'
 	, __FILE__
 );
