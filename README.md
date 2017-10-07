@@ -1,4 +1,4 @@
-# Restrict Site Admins  [![HackerOne Bug Bounty Program](https://img.shields.io/badge/security-HackerOne-blue.svg)](https://hackerone.com/wordpoints)
+# Restrict Site Admins [![Build Status](https://travis-ci.org/WordPoints/restrict-site-admins.svg?branch=master)](https://travis-ci.org/WordPoints/restrict-site-admins) [![HackerOne Bug Bounty Program](https://img.shields.io/badge/security-HackerOne-blue.svg)](https://hackerone.com/wordpoints)
 
 Restricts site admins from being able to edit the points reactions, only allowing the network admins.
 
