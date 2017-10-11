@@ -21,7 +21,7 @@
  * ---------------------------------------------------------------------------------|
  *
  * @package WordPoints_Restrict_Site_Admins
- * @version 1.0.1
+ * @version 1.0.2
  * @author  J.D. Grimes <jdg@codesymphony.co>
  * @license GPLv2+
  */
@@ -32,12 +32,12 @@ wordpoints_register_extension(
 		Author:         J.D. Grimes
 		Author URI:     https://codesymphony.co/
 		Extension URI:  https://wordpoints.org/extensions/restrict-site-admins/
-		Version:        1.0.1
+		Version:        1.0.2
 		License:        GPLv2+
 		Description:    Restricts site admins from being able to modify points reactions.
 		Text Domain:    wordpoints-restrict-site-admins
 		Domain Path:    /languages
-		Channel:        wordpoints.org
+		Server:         wordpoints.org
 		ID:             1048
 		Namespace:      Restrict_Site_Admins
 	'

@@ -8,6 +8,12 @@ This project adheres to [Semantic Versioning](http://semver.org/) and [Keep a CH
 
 Nothing documented right now.
 
+## [1.0.2] - 2017-10-12
+
+### Fixed
+
+- Deprecated notices from the `Channel` extension header.
+
 ## [1.0.1] - 2017-10-07
 
 ### Requires
@@ -16,7 +22,7 @@ Nothing documented right now.
 
 ### Fixed
 
-- Deprecated notices from `Channel`, `Module Name`, and `Module URI` extension headers.
+- Deprecated notices from the `Module Name`, and `Module URI` extension headers.
 
 ## [1.0.0] - 2017-03-15
 
@@ -27,5 +33,6 @@ Nothing documented right now.
   - The Points Types screen uses the generic `manage_options` capability, and has to be removed manually.
 
 [unreleased]: https://github.com/WordPoints/wordpoints/compare/master...HEAD
+[1.0.2]: https://github.com/WordPoints/wordpoints/compare/1.0.1...1.0.2
 [1.0.1]: https://github.com/WordPoints/wordpoints/compare/1.0.0...1.0.1
 [1.0.0]: https://github.com/WordPoints/wordpoints/compare/...1.0.0
